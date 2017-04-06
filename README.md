@@ -1,9 +1,6 @@
 <b>Hzo Life v0.4.0</b> Modifier par la <b>team Hzo</b> 
 <p align="center">
-    <a href="">
-        <img src="https://www.google.fr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiR7sOHzY_TAhXFPBQKHU99BdIQjRwIBw&url=http%3A%2F%2Fblagoicons.deviantart.com%2Fart%2FArmA-III-Icon-397401509&bvm=bv.151426398,d.d24&psig=AFQjCNES81To7mNrXfVIEBGLddzQ5Qlq1Q&ust=1491560230670283" alt="Alpha">
-    </a>
-       <a href="">
-        <img src="https://img.shields.io/badge/Discord-Join%20chat%20→-738bd7.svg" alt="Ts3">
+    <a href="http://www.herozion-life.fr/">
+        <img src="https://www.google.fr/imgres?imgurl=http%3A%2F%2Fwww.pngfactory.net%2F_png%2F_thumb%2F29074-JonyBIgoodOstrogo-Arma3Alpha5.png&imgrefurl=http%3A%2F%2Fwww.pngfactory.net%2Fpng%2F30185%2FArma3-MPMissions&docid=HnvaRUUMkgcSNM&tbnid=QN-MkYTiiGvBxM%3A&vet=10ahUKEwiIsvu0zY_TAhUHWxQKHSuFBIcQMwgjKAkwCQ..i&w=128&h=128&bih=950&biw=1920&q=icone%20arma%203&ved=0ahUKEwiIsvu0zY_TAhUHWxQKHSuFBIcQMwgjKAkwCQ&iact=mrc&uact=8" alt="Alpha">
     </a>
 </p>
