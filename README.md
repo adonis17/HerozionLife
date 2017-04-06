@@ -1,4 +1,4 @@
-<b>Hzo Life v0.4.0</b> is developed by <b>team Hzo</b> (prior ArmaLife developers), originally created by <b>Tonic</b>.
+<b>Hzo Life v0.4.0</b> is developed by <b>team Hzo</b> 
 <p align="center">
     <a href="https://travis-ci.org/AsYetUntitled/Framework">
         <img src="https://api.travis-ci.org/AsYetUntitled/Framework.svg" alt="Build Status">
